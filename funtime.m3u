@@ -25,8 +25,10 @@ http://172.20.21.22/live/funtime110/index.m3u8
 http://172.20.21.22/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",Deepto_TV
 http://172.20.21.22/live/skyfeed1024/index.m3u8
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/724/655/png-transparent-star-sports-star-india-television-channel-sony-ten-2-cricket-television-text-sport.png",Star Sports 2 HD
+http://172.20.21.22/live/skyfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/220px-Sony_Sports_Network.svg.png",Sony Sports 1
+http://172.20.21.22/live/skyfeed1007/index.m3u8
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",

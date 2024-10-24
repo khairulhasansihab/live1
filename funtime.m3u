@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U8
+EXTINF:-1 tvg-logo="https://ibb.co.com/qknXsKm",Sihabhasan
+https://www.btvlive.gov.bd/streams/1f8298f0-89a4-4775-a5f4-9e792ec9d5a5/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T_Sports
 http://172.20.21.22/live/skyfeed1005/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png", Somoy_TV

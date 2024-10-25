@@ -139,27 +139,72 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208
 https://4gradgmttgwzdecjq8y5o.wslivehls.com/pull-cdnw.anystream.uk/live/2da6b413018e100097c37f4200000000/playlist.m3u8?wsSession=f3ba0562eab6855f475d5e44-172988343834789&wsIPSercert=236e1d339522c60bd6683e48a7e5e38c&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/B4U_Music_logo.png",B4U Music
 https://cdn2.pishow.tv/live/141/141_0.m3u8
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOt4GupeUZqt216gaRuN4Pp2EuLG1u4Ac87Q&s",Nobanno Tv
+https://app.ncare.live/live-orgin/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxaLVAoxI9qrwtRxZIF1laYWfoS3c0oGhdA&s",BTV HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Jomuna Tv
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O4AMHTKhKiXmwu0JF3Ne7GKeCd8zEkn2kg&s",VTC HD
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Discovery_HD_logo.PNG",Discovary Hindi
+https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/az/6/69/Discovery_HD_logo.PNG",Discovary Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjGziQmthpUs0Lq5dA3Fpxqt_mgiTLSuITLw&s",Animal Planet Multi Audio
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjGziQmthpUs0Lq5dA3Fpxqt_mgiTLSuITLw&s",Animal Planet 720p
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCh2y5jcFaE1XMH5MKLs7hIs_ATlYOrKF4dQ&s",Explore Tv
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh8W72afLYBKdfe0pMvQEgci2rvy39ugzFg&s",Euro Sports
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png",Deshi Tv
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Filamchi-Bhojpuri_Tagline.jpg/220px-Filamchi-Bhojpuri_Tagline.jpg",FlimChi Bhojepuri
+https://epiconvh.s.llnwi.net/filamchi/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg",Discovery Bangla 2
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg",Discovery Bangla 3
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsports HD 3
+https://tsports.iptvbd.xyz/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",Tsports HD 4
+https://tsports.iptvbd.xyz/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRY80-tqCgnt8jnw1b2B1yXcj-mbW1zM9BfA&s",B4U Movice 2nd
+https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646",Sony Sports 1
+https://toffee.iptvbd.xyz/api/sony_ten1_hd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAATZp1kzeckj73wgrl1hYlO6bMwzCYxn8nQ&s",Sony Ten 2 HD
+https://toffee.iptvbd.xyz/api/sony_ten2_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/340?cb=20221025085433",Sony Ten 3 HD
+https://toffee.iptvbd.xyz/api/sony_ten3_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/340?cb=20221025091902",Sony Ten 5 HD
+https://toffee.iptvbd.xyz/api/sony_six_hd.m3u8
+#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET%20LOGO.png",Sony Entertainment
+https://toffee.iptvbd.xyz/api/sony_entertainment.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5q_sYuVeQFJssef35EGgNkeznqMbrywG7g&s",Sony Televishon HD
+https://toffee.iptvbd.xyz/api/sony_entertainmnt_hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
+https://toffee.iptvbd.xyz/api/sony_max.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Mex HD
+https://toffee.iptvbd.xyz/api/set_max_hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Atth
+https://toffee.iptvbd.xyz/api/sony_aath.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png",Sony Sab
+https://toffee.iptvbd.xyz/api/sony_sab_hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/f/f4/Sony_Max_2_new_logo.png",Sony Max 2
+https://toffee.iptvbd.xyz/api/sony_max_2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFFELctvw4Ct6fh90roD5fEtVe8JBPwmEn-A&s",Sony Wah
+https://toffee.iptvbd.xyz/api/sony_wah.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yah
+https://toffee.iptvbd.xyz/api/sony_yay.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/d/df/Sony_BBC_Earth_-_logo.png/revision/latest/smart/width/386/height/259?cb=20230429135909",Sony BBC Earth
+https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png",Sony Pix HD
+https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRY80-tqCgnt8jnw1b2B1yXcj-mbW1zM9BfA&s",B4U Movie
+https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",

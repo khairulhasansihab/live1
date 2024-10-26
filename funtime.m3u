@@ -205,6 +205,7 @@ https://toffee.iptvbd.xyz/api/sony_bbc_earth_hd.m3u8
 https://toffee.iptvbd.xyz/api/sony_pix_hd.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRY80-tqCgnt8jnw1b2B1yXcj-mbW1zM9BfA&s",B4U Movie
 https://toffee.iptvbd.xyz/api/b4u_movies.m3u8
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/mgH1i7Y4eGDb4VMH8",Masranga Tv
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",

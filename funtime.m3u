@@ -237,15 +237,24 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Zee_Bangla_logo.png",Zee Bangla HD L-1
 http://bd.ottbd.online:2082/live/rozario859/01327184859/438.m3u8
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket  
+https://criccoder.pages.dev/astro.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:National_Geographic_Channel.svg",National Geography
+http://103.110.110.11:8081/live/NGC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:Casi_Discovery_HD.png",Discovery HD New
+https://freeott.site/discovery/Discovery_Channel.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bollywood",Zee Bollywood
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",HBO HD
+http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:HBO_Family_Asia_logo.svg",HBO Family
+http://212.102.60.231/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:PITAARA_TV.png",Pitaara Tv
+http://212.102.34.8:9080/Pitaara/index.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:SporTV_2021.png",Spor Tv
+http://179.124.14.153:8080/19/index.m3u8
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:UEFA_Euro_2024_Logo.svg",Euro Sports 2
+http://109.233.89.166/Eurosport_2_HD/mono.m3u8
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="",

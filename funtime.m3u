@@ -287,17 +287,28 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/74b215e9-e03d-45de-854f-0c5f3030e8a2/4.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/India-music.svg",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="", 
-#EXTINF:-1 tvg-logo="", 
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="", 
-#EXTINF:-1 tvg-logo="", 
-#EXTINF:-1 tvg-logo="",
-#EXTINF:-1 tvg-logo="", 
-#EXTINF:-1 tvg-logo="", 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKJlSP6NoN2PzsaxrefkEsiCP1BD2Va_niQw&s",Sony Sports 1 HD
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_ten1_hd_576/1730550293357.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png/revision/latest/scale-to-width-down/460?cb=20221025084500",Sony Sports 2HD
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_ten2_hd_576/1730550435212.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png/revision/latest/scale-to-width-down/460?cb=20221025085433", Sony Sports 3 HD
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_ten3_hd_576/1730550507984.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/340?cb=20221025091902",Sony Sports 5 HD
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_six_hd_576/1730550574443.ts
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180622/qfj/aazefdxi4.webp",Discovary HD Bangla Fast
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_22.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818",B4U Kadak
+https://cdn2.pishow.tv/live/160/160_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png", Sony Max
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_max_576/1730550896546.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f2/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%AE%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%B8_%E0%A7%A8_%E0%A6%8F%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Sony Max 2
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_max_2_576/1730550944071.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/hi/7/73/Sony_Set_new.png",Sony Televishon
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_entertainment_576/1730550993223.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/03/%E0%A6%B8%E0%A6%A8%E0%A6%BF_%E0%A6%B8%E0%A6%BE%E0%A6%AC_%E0%A6%8F%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Sony Sub
+https://tmsbd.top/poott/ts.php?url=https://bldcmprod-cdn.toffeelive.com/live/sony_sab_hd_576/1730551056451.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",Zee Bangla 480p
+https://tmsbd.top/jdddlaaa/m3u8.php?c=zee_bangla&e=m3u8
 #EXTINF:-1 tvg-logo="",
 #EXTINF:-1 tvg-logo="", 
 #EXTINF:-1 tvg-logo="", 
